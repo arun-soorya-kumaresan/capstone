@@ -1,0 +1,7 @@
+dash
+gunicorn
+plotly
+pandas
+numpy
+statsmodels
+google-generativeai
